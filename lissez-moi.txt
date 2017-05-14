@@ -1,0 +1,15 @@
+***************************************
+		UTILISATION
+**************************************
+1-Connexion à l'interface administrateur :
+   -Login(email) : admin@gest-univ.fr
+   -Mot de passe : admin
+inforation de connexion par defaut par defeaut
+Vous pouvez créer aussi d'autre utilisateur une fois connecter
+
+2 - Une fois connecter vous devez ajouter des filières 
+
+3 - Ajouteur des enseignants
+
+4 - Faire des affectations des enseignants
+
